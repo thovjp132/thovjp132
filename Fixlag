@@ -1,0 +1,614 @@
+
+    <meta charset="UTF-8">
+
+<br /><br />
+<h2 style="text-align: center;"><b>👇KÉO XUỐNG👇</b></h2>
+<br /><br />Roblox Lite là gì?<br /><br /><br />
+<div style="text-align: center;">
+  <a
+    href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSsw22NuQIn1HKGwltKZlNAo9THarmVO5qO5yNEQYcQ29hYijKNgx8LtXbVDZzPOLAVtS6Cfr-XvE0tUqcH1VvN6BKkavCH0TGrPtIH0BSTJtzW-vDVZog4pGgo-S2x4QgqUxW_Kz2VOjRrqrFvwfV8ktt5PIiu-zP3xiHGvWsS2WXMs09kkQb6XwyuJ2V/s1024/Picsart_23-08-27_12-29-50-601.jpg"
+    ><img
+      border="0"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSsw22NuQIn1HKGwltKZlNAo9THarmVO5qO5yNEQYcQ29hYijKNgx8LtXbVDZzPOLAVtS6Cfr-XvE0tUqcH1VvN6BKkavCH0TGrPtIH0BSTJtzW-vDVZog4pGgo-S2x4QgqUxW_Kz2VOjRrqrFvwfV8ktt5PIiu-zP3xiHGvWsS2WXMs09kkQb6XwyuJ2V/s320/Picsart_23-08-27_12-29-50-601.jpg"
+  /></a>
+</div>
+Roblox lite là 1 phiên bản roblox đã được giảm nhẹ cũng như xóa bớt những thứ
+không cần thiết giúp tối ưu game hơn.&nbsp;
+<div>
+  <ul style="text-align: left;">
+    <li>Tính năng chung:</li>
+    <li>Tối ưu hoá game</li>
+    <li>Giảm lag hiệu quả cho các dòng máy</li>
+    <li>Giảm giật lag khung hình</li>
+    <li>Xoá các file thừa gây lag game</li>
+    <li>Ổn định fps khi combat, pvp,..</li>
+    <li>Tối ưu hoá tốc độ load game</li>
+    <li>Xóa Skin &amp; Giữ Skin</li>
+    <li>Xóa 1 số Font chữ</li>
+  </ul>
+</div>
+<div><br /></div>
+<div>
+  Có thể bạn chưa biết : <br />- Không phải file fix lag càng nhẹ thì sẽ càng
+  mượt đâu nha. Nếu fix mất quá nhiều file (nhẹ quá) thì hệ thống game quét file
+  bị mất có thể gây ra giật lag hơn <br />- Vừa đủ không nhẹ không lớn thì sẽ
+  hiệu quả hơn. Cứ cài và trải nghiệm để biết được hiệu quả ☢️
+  <br /><br /><br />Thật ra fix lag không thần thánh như các kênh khác giật tít,
+  không phải máy yếu khi vài vào là sẽ full 60 fps,siêu nhẹ, siêu mượt..v.v. Fix
+  lag nó chỉ giảm lag đc 1 phần thôi chứ không khiến 1 con máy yếu lại có thể
+  chơi mượt như 1 con máy mạnh ! Cảm ơn đã xem.
+</div>
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"
+
+    <title>Document</title>
+
+    <style>
+
+        html{
+
+            scroll-behavior: smooth;
+
+            
+
+        }
+
+        .test-khoi {
+
+            height: 5000px;
+
+        }
+
+        .btn-pull-down {
+
+            position: fixed;
+
+            bottom: 0;
+
+            right: 70px;
+
+            margin: 5px;
+
+            color: rgb(187, 185, 189);
+
+        }
+
+        .bi-chevron-double-down:hover{
+
+            color: rgb(49, 48, 48);
+
+        }
+
+    </style>
+
+    
+
+</head>
+
+<body>
+
+    
+    <div class="pull-down">
+
+        <div class="btn-pull-down">
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" color="rgb(187, 185, 189)" class="bi bi-chevron-double-down" viewBox="0 0 16 16">
+
+                <path fill-rule="evenodd" d="M1.646 6.646a.5.5 0 0 1 .708 0L8 12.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+
+                <path fill-rule="evenodd" d="M1.646 2.646a.5.5 0 0 1 .708 0L8 8.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+
+              </svg>
+
+        </div>
+
+    </div>
+
+<!--body content-->
+<div style="text-align: center;"><b>--LINK TẢI (GỒM LIKE SUB CMT &amp; TÌM MÃ)--</b></div><div style="text-align: center;"></div>
+<head>
+    <meta charset="UTF-8"></meta>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+    <title>Document</title>
+    <style>
+        .form {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        button {
+            margin: 5px;
+        }
+
+        .open {
+            background-color: rgb(109, 109, 186);
+        }
+
+        .go {
+            background-color: rgb(202, 145, 39);
+        }
+
+        .disabled {
+            pointer-events: none;
+            opacity: 0.1;
+            cursor: not-allowed;
+        }
+
+        .form>.text-form {
+            border: 1px solid gray;
+            padding: 5px;
+            border-radius: 20px;
+            font-weight: bold;
+
+        }
+
+        .subsribe-youtube, #btn-comment,
+        #btn-like {
+            margin: 5px;
+            background-color: rgb(255, 0, 0);
+            padding: 13px;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            text-decoration: none;
+            cursor: pointer;
+            
+        }
+        #btn-comment{
+            background-color: green;
+        }
+        #btn-like {
+            
+            background-color: rgb(75, 75, 224);
+
+        }
+
+        .download-file {
+            padding: 15px;
+        }
+
+        .message {
+            font-size: 20px;
+        }
+
+        .like {
+            color: rgb(16, 248, 16);
+        }
+
+        .no-like {
+            color: red;
+        }
+
+        .reset {
+            color: black;
+        }
+		.blockStyle {
+
+            display: block !important;
+
+        }
+
+        .noneStyle {
+
+            display: none;
+
+        }
+
+        #btn-getlink {
+
+            width: 200px;
+
+            padding: 10px;
+
+            border: none;
+
+            background-color: rgb(37, 239, 37);
+
+            color: white;
+
+        }
+
+        .form-getlink-ytb {
+
+            display: flex;
+
+            flex-direction: column;
+
+            align-items: center;
+
+        }
+    </style>
+    <script src="https://apis.google.com/js/api.js"></script>
+</head>
+
+<body>
+    <div class="form">
+        <label class="text-form" for="">Thực Hiện Các Bước Sau Để Mở Khóa Link Tải!</label>
+        <button class="subsribe-youtube"><b>ĐĂNG KÝ &amp; BẬT CHUÔNG</b></button>
+        <button class="disabled" id="btn-comment"><b>BÌNH LUẬN</b></button>
+        <button class="disabled" id="btn-like"><b>LIKE</b></button>
+        <p class="message"></p>
+        <button class="download-file disabled"><b>GETLINK</b></button>
+    </div><div></div><div></div><div></div>
+		<div style="text-align: center;">
+  <b><br /></b>
+</div>
+<div style="text-align: center;">
+  <b><br /></b>
+</div>
+<div style="text-align: center;">
+  <b><br /></b>
+</div>
+<div style="text-align: center;">
+  <b><br /></b>
+</div>
+<!-- <div style="text-align: center;"><b>--LINK TẢI CHẬM--&nbsp;</b></div>
+<div style="text-align: center;">
+  <b>NHẤN VÀO NÚT BÊN DƯỚI VÀ CHỜ ĐỂ CHUYỂN TIẾP</b>
+</div>
+
+		<div class="form-getlink-ytb">
+
+        <div class="noneStyle" id="player">
+
+        </div>
+
+        <p><button id="btn-getlink">NHẤN VÀO ĐÂY</button></p>
+
+    </div> -->
+        
+    <script>
+
+        (function(_0xd1ff3d,_0x2053ab){const _0x514550={_0x993f7a:0xef,_0x8af7ab:0xf2,_0x78fc6a:0xf4,_0x14b12d:0xf0,_0xbd37ef:0xf3,_0x34044b:0xf1,_0x745e74:0xf0,_0x5ba414:0xf1,_0x5d5065:0xf8,_0x5bceef:0xed,_0x11e955:0xf1,_0x1630c1:0xed,_0x1e920e:0xf0,_0x389000:0xee,_0x2e26:0xf6},_0x297cb2={_0x2e531d:0x20b};function _0xecb14(_0x389e01,_0x3401ee,_0xd8f27,_0x53c8ed,_0x32698d,_0x3cba60,_0x577e06,_0x1e0641,_0x4c41f0,_0x33255d){return _0x1e08(_0x3401ee- -_0x297cb2._0x2e531d,_0xd8f27);}const _0x4262a0=_0xd1ff3d();while(!![]){try{const _0x3e7add=parseInt(_0xecb14(-_0x514550._0x993f7a,-_0x514550._0x8af7ab,-0xf6,-0xf0,-0xf5,-0xf3,-0xee,-0xee,-0xf4,-0xf2))/0x1*(parseInt(_0xecb14(-0xf0,-0xec,-0xef,-0xe7,-0xe9,-0xef,-0xee,-0xe9,-0xe8,-0xf1))/0x2)+-parseInt(_0xecb14(-0xf1,-0xf1,-0xf4,-0xed,-_0x514550._0x78fc6a,-0xf6,-0xec,-0xf5,-_0x514550._0x14b12d,-0xf1))/0x3+parseInt(_0xecb14(-0xf3,-_0x514550._0xbd37ef,-_0x514550._0x34044b,-0xf3,-_0x514550._0x745e74,-0xf4,-0xf7,-0xf2,-_0x514550._0x5ba414,-0xf7))/0x4+-parseInt(_0xecb14(-_0x514550._0x5d5065,-0xf5,-0xf1,-0xfa,-0xf4,-0xf3,-0xf4,-0xf1,-0xf4,-0xfa))/0x5+parseInt(_0xecb14(-0xf2,-_0x514550._0x5bceef,-0xf1,-0xf1,-0xef,-0xf0,-0xe9,-_0x514550._0x5ba414,-_0x514550._0x11e955,-0xf2))/0x6+parseInt(_0xecb14(-0xf1,-0xf0,-0xee,-0xf2,-0xf4,-0xeb,-_0x514550._0x1630c1,-_0x514550._0x1e920e,-0xf1,-0xf5))/0x7+parseInt(_0xecb14(-0xef,-_0x514550._0x389000,-0xee,-0xf0,-0xed,-0xf2,-0xef,-0xf1,-0xf2,-0xec))/0x8*(parseInt(_0xecb14(-_0x514550._0x2e26,-0xf4,-0xf6,-_0x514550._0x745e74,-0xf8,-0xf3,-0xf5,-_0x514550._0x34044b,-0xf4,-0xf5))/0x9);if(_0x3e7add===_0x2053ab)break;else _0x4262a0['push'](_0x4262a0['shift']());}catch(_0x1c43e1){_0x4262a0['push'](_0x4262a0['shift']());}}}(_0x397f,0x65d42));let checkJoinLink=![];function _0x1e08(_0x345a4e,_0x1f237e){const _0x397ff8=_0x397f();return _0x1e08=function(_0x1e0810,_0x4ce3f3){_0x1e0810=_0x1e0810-0x116;let _0x1451c1=_0x397ff8[_0x1e0810];return _0x1451c1;},_0x1e08(_0x345a4e,_0x1f237e);}function _0x2203be(_0x338234,_0x29c1be,_0x55483f,_0x309bcf,_0x44afd6,_0x338769,_0x281580,_0x195fe7,_0x4b2aaa,_0x20a1a6){const _0x2366ff={_0x57f7e2:0x294};return _0x1e08(_0x281580- -_0x2366ff._0x57f7e2,_0x338769);}let likes=[];var apiKey=_0x2203be(-0x173,-0x176,-0x179,-0x174,-0x174,-0x17d,-0x178,-0x177,-0x174,-0x173);function _0x397f(){const _0x8c1c16=['\x31\x30\x38\x34\x35\x39\x39\x73\x58\x4f\x6b\x66\x6a','\x39\x34\x35\x36\x30\x39\x52\x55\x47\x52\x4d\x79','\x41\x49\x7a\x61\x53\x79\x44\x73\x51\x6a\x70\x42\x44\x4c\x37\x4d\x76\x55\x73\x61\x42\x52\x68\x65\x70\x45\x4d\x5a\x4a\x78\x6b\x41\x37\x58\x6c\x76\x59\x7a\x38','\x35\x36\x45\x6f\x6d\x51\x6d\x67','\x32\x39\x36\x35\x33\x35\x30\x67\x73\x5a\x56\x56\x77','\x34\x65\x42\x64\x67\x5a\x61','\x31\x30\x32\x32\x36\x31\x30\x70\x70\x4e\x44\x4d\x6d','\x31\x33\x38\x33\x36\x36\x7a\x69\x62\x53\x73\x67','\x38\x35\x34\x32\x37\x36\x68\x63\x4a\x68\x41\x54','\x31\x36\x33\x32\x33\x59\x58\x6b\x57\x61\x56'];_0x397f=function(){return _0x8c1c16;};return _0x397f();}
+
+        // Định nghĩa ID của video
+        var videoId = '4Qw76jRp5rk';
+
+        var linkFile = 'https://link68.net/A4Ls6Q';
+
+		function _0x277d76(_0x5178fb, _0x40aabb, _0x28d174, _0x4e3c3e, _0x1d9eca) {
+    var _0x1c59b6 = {
+        _0x54a079: 0x3a7
+    };
+    return _0x24a9(_0x1d9eca - -_0x1c59b6._0x54a079, _0x5178fb);
+}
+function _0x24a9(_0x43c218, _0x58b301) {
+    var _0x235357 = _0x2353();
+    return _0x24a9 = function (_0x24a968, _0x27d38c) {
+        _0x24a968 = _0x24a968 - 0x1c1;
+        var _0x151f6b = _0x235357[_0x24a968];
+        return _0x151f6b;
+    }, _0x24a9(_0x43c218, _0x58b301);
+}
+function _0x2353() {
+    var _0x32313e = ['likeCount', '1019613hwrYOx', 'splice', '558655czffwm', 'https://www.youtube.com/channe', '1882FvcEod', 'log', 'statistics', '2800890lAOivP', '2587940HXIBpx', '8357751bziDiQ', 'https://www.googleapis.com/you', '988HcpkUI', 'Đã xảy ra lỗi khi lấy thông ti', '15308337GuwtWN', 'request', 'result', '8FTAYVh', '30nxKaaL', '28eWeCFe', 'tube/v3/videos', 'init', 'n video:', 'client'];
+    _0x2353 = function () {
+        return _0x32313e;
+    };
+    return _0x2353();
+}(function (_0x563ffb, _0x5a9f62) {
+    var _0x374100 = {
+            _0xacdea5: 0x1f2,
+            _0x4ee791: 0x1fb,
+            _0x27cc3c: 0x1f1,
+            _0x38f2c9: 0x1f8,
+            _0xc60627: 0x1f3,
+            _0x1ef725: 0x201,
+            _0x506f01: 0x1ea,
+            _0x118bab: 0x1fd,
+            _0xea7050: 0x207,
+            _0x3c05c3: 0x202,
+            _0x56fda6: 0x204,
+            _0x4ffcd0: 0x1f0,
+            _0x52722c: 0x1fa,
+            _0x2ede10: 0x1e0,
+            _0xa61be6: 0x1e4,
+            _0x3a2162: 0x1eb,
+            _0x51b6a6: 0x1fc,
+            _0x3ae686: 0x208,
+            _0x33d79c: 0x205,
+            _0x20d79c: 0x1e3,
+            _0x5c23c9: 0x1e6,
+            _0xc29661: 0x200,
+            _0x36df12: 0x1ec,
+            _0x2eefe6: 0x1ef
+        },
+        _0x49cf10 = {
+            _0x5c1130: 0x3c3
+        },
+        _0x23eb4e = _0x563ffb();
+    function _0x3b69ee(_0x4b8459, _0x2267f2, _0x56165b, _0x5480ea, _0x4f2948) {
+        return _0x24a9(_0x5480ea - -_0x49cf10._0x5c1130, _0x4b8459);
+    }
+    while (!![]) {
+        try {
+            var _0x1029a0 = -parseInt(_0x3b69ee(-0x1e7, -_0x374100._0xacdea5, -_0x374100._0x4ee791, -_0x374100._0x27cc3c, -0x1eb)) / 0x1 * (-parseInt(_0x3b69ee(-_0x374100._0x38f2c9, -0x1f2, -_0x374100._0xc60627, -0x1f8, -_0x374100._0x1ef725)) / 0x2) + parseInt(_0x3b69ee(-0x1ef, -_0x374100._0x506f01, -_0x374100._0x118bab, -0x1f5, -0x1fc)) / 0x3 + -parseInt(_0x3b69ee(-0x1fc, -_0x374100._0xea7050, -0x207, -_0x374100._0x3c05c3, -_0x374100._0x56fda6)) / 0x4 * (parseInt(_0x3b69ee(-_0x374100._0x4ffcd0, -0x1fc, -0x1fe, -_0x374100._0x52722c, -0x1ef)) / 0x5) + parseInt(_0x3b69ee(-0x1f0, -_0x374100._0x2ede10, -_0x374100._0xa61be6, -_0x374100._0x3a2162, -0x1f2)) / 0x6 * (-parseInt(_0x3b69ee(-_0x374100._0x51b6a6, -0x1f2, -_0x374100._0x3ae686, -_0x374100._0x51b6a6, -_0x374100._0x33d79c)) / 0x7) + -parseInt(_0x3b69ee(-_0x374100._0x20d79c, -0x1e0, -_0x374100._0x5c23c9, -0x1ec, -0x1eb)) / 0x8 * (parseInt(_0x3b69ee(-0x1eb, -0x1f3, -0x1f9, -0x1f3, -0x1ed)) / 0x9) + -parseInt(_0x3b69ee(-0x1f3, -_0x374100._0x4ee791, -0x1f9, -0x1f4, -_0x374100._0xc29661)) / 0xa + parseInt(_0x3b69ee(-_0x374100._0x38f2c9, -0x1e9, -_0x374100._0x36df12, -_0x374100._0x2eefe6, -0x1ed)) / 0xb;
+            if (_0x1029a0 === _0x5a9f62) break;
+            else _0x23eb4e['push'](_0x23eb4e['shift']());
+        } catch (_0x36091c) {
+            _0x23eb4e['push'](_0x23eb4e['shift']());
+        }
+    }
+}(_0x2353, 0x88068));
+function updateLiked() {
+    var _0xb15489 = {
+            _0x515977: 0x24a,
+            _0x2c45b2: 0x24d,
+            _0x320722: 0x23e,
+            _0x1ac6ad: 0x248,
+            _0x4ecc34: 0x247
+        },
+        _0x8ad767 = {
+            _0x4fe0e2: 0x2c8,
+            _0x589d3b: 0x2cf,
+            _0x5c6117: 0x2c2,
+            _0x3c19cb: 0x2bd,
+            _0x1de73c: 0x2c0,
+            _0x37c095: 0x2b9
+        },
+        _0x1f8aa5 = {
+            _0x4d062e: 0xf8,
+            _0x40db82: 0xf5,
+            _0x216948: 0xfe,
+            _0x36250f: 0xfc,
+            _0x4ce19f: 0x102,
+            _0x2a7a2f: 0xf7,
+            _0x6eec75: 0xfe,
+            _0x40b335: 0xfa
+        },
+        _0x1313b3 = {
+            _0x270b9e: 0x198,
+            _0x1659cd: 0x197,
+            _0xe6ac99: 0x196,
+            _0x3898d2: 0x18e,
+            _0x28a55b: 0x187,
+            _0x20cc65: 0x18a,
+            _0x2b2281: 0x18b,
+            _0x1dbf1f: 0x186,
+            _0x9967fa: 0x19a,
+            _0x27e8c4: 0x190,
+            _0x496400: 0x1a6,
+            _0x300aae: 0x18c,
+            _0x2a2aca: 0x191
+        },
+        _0x2a8288 = {
+            _0x104620: 0xb,
+            _0x231755: 0x12c
+        };
+    function _0x59ab34(_0x1d9094, _0x25ec22, _0x39a549, _0xb28fec, _0x30f527) {
+        return _0x277d76(_0x39a549, _0x25ec22 - _0x2a8288._0x104620, _0x39a549 - 0x1a9, _0xb28fec - _0x2a8288._0x231755, _0x1d9094 - 0x42c);
+    }
+    gapi[_0x59ab34(_0xb15489._0x515977, _0xb15489._0x2c45b2, _0xb15489._0x320722, 0x241, 0x255)][_0x59ab34(_0xb15489._0x1ac6ad, 0x24e, _0xb15489._0x4ecc34, 0x251, 0x23e)]({
+        'apiKey': apiKey
+    })['then'](function () {
+        var _0x25a049 = {
+            _0x5ea25d: 0x1e2,
+            _0x2f8d74: 0x9a,
+            _0x56440d: 0xdb
+        };
+        function _0x19001a(_0x2e159b, _0x3675ee, _0x248669, _0x1f54d8, _0x707a27) {
+            return _0x59ab34(_0x3675ee - -0x3e1, _0x3675ee - _0x25a049._0x5ea25d, _0x1f54d8, _0x1f54d8 - _0x25a049._0x2f8d74, _0x707a27 - _0x25a049._0x56440d);
+        }
+        return gapi[_0x19001a(-_0x1313b3._0x270b9e, -_0x1313b3._0x1659cd, -_0x1313b3._0xe6ac99, -0x19e, -_0x1313b3._0x3898d2)][_0x19001a(-0x18d, -0x187, -0x18b, -_0x1313b3._0x28a55b, -0x192)]({
+            'path': _0x19001a(-_0x1313b3._0x20cc65, -0x18b, -_0x1313b3._0x2b2281, -_0x1313b3._0x1dbf1f, -0x187) + _0x19001a(-0x19f, -_0x1313b3._0x9967fa, -0x1a1, -_0x1313b3._0x27e8c4, -_0x1313b3._0x496400),
+            'params': {
+                'part': _0x19001a(-_0x1313b3._0x300aae, -0x18f, -0x18a, -0x199, -_0x1313b3._0x2a2aca),
+                'id': videoId
+            }
+        });
+    })['then'](function (_0x3063fa) {
+        var _0x15c29d = {
+                _0x5ae3ff: 0x17d,
+                _0x718a71: 0x10d
+            },
+            _0x33e60b = _0x3063fa[_0x21049f(-_0x1f8aa5._0x4d062e, -0xf4, -0xf9, -0xff, -_0x1f8aa5._0x40db82)]['items'][0x0]['statistics'],
+            _0x6397b = parseInt(_0x33e60b[_0x21049f(-_0x1f8aa5._0x216948, -0x104, -_0x1f8aa5._0x36250f, -0x102, -0x108)]);
+        likes['length'] > 0x1 && likes[_0x21049f(-0x102, -_0x1f8aa5._0x4ce19f, -_0x1f8aa5._0x2a7a2f, -0xfb, -0x100)](0x0, 0x1);
+        likes['push'](_0x6397b), console[_0x21049f(-0xf5, -_0x1f8aa5._0x6eec75, -0xf3, -_0x1f8aa5._0x40b335, -0x107)](likes);
+        function _0x21049f(_0x3d5e5f, _0x54ef74, _0x47f1b9, _0x3753b7, _0x259122) {
+            return _0x59ab34(_0x54ef74 - -0x34f, _0x54ef74 - 0x7, _0x3d5e5f, _0x3753b7 - _0x15c29d._0x5ae3ff, _0x259122 - _0x15c29d._0x718a71);
+        }
+        likes[0x1] && checkChange();
+    })['catch'](function (_0x48d74b) {
+        var _0x2fcf8f = {
+            _0x14a319: 0x50,
+            _0x1407a2: 0x13f
+        };
+        function _0x5b7a20(_0x176e65, _0x34f716, _0x36e59a, _0x181b88, _0x55727a) {
+            return _0x59ab34(_0x181b88 - 0x77, _0x34f716 - _0x2fcf8f._0x14a319, _0x34f716, _0x181b88 - 0xe0, _0x55727a - _0x2fcf8f._0x1407a2);
+        }
+        console['error'](_0x5b7a20(0x2c3, 0x2d1, _0x8ad767._0x4fe0e2, _0x8ad767._0x589d3b, 0x2d8) + _0x5b7a20(_0x8ad767._0x5c6117, _0x8ad767._0x3c19cb, _0x8ad767._0x1de73c, _0x8ad767._0x1de73c, _0x8ad767._0x37c095), _0x48d74b);
+    });
+} // Hàm tải thư viện API YouTube và gọi hàm kiểm tra trạng thái "like" của video
+        (function(_0x111e4d,_0x9d7eaa){const _0x1f912f={_0x4be54b:0x104,_0x4ccd60:0x109,_0x20becf:0xff,_0x4fa778:0x105,_0x589de2:0x10f,_0x3bbb1e:0x10c,_0x43ec0f:0x111,_0x5e8e2c:0x101,_0x411a3b:0x106,_0x52e6e4:0x107,_0x3cf5a7:0x102,_0x197501:0xf7,_0x563760:0xfe,_0x4ed396:0x100,_0x53027a:0x10f},_0x26acbd={_0x4543b6:0xcf},_0xc1dbf4=_0x111e4d();function _0x57468b(_0x3552e8,_0x34a4f2,_0x4cea4e,_0x1ac51d,_0x4f566e){return _0x1fda(_0x34a4f2- -_0x26acbd._0x4543b6,_0x4f566e);}while(!![]){try{const _0x472a28=-parseInt(_0x57468b(0xfa,_0x1f912f._0x4be54b,_0x1f912f._0x4ccd60,_0x1f912f._0x20becf,_0x1f912f._0x4fa778))/0x1*(-parseInt(_0x57468b(0x10a,0x105,0xfb,0xfb,_0x1f912f._0x589de2))/0x2)+parseInt(_0x57468b(_0x1f912f._0x3bbb1e,0x10a,0x10e,0x106,_0x1f912f._0x43ec0f))/0x3+parseInt(_0x57468b(0x10c,_0x1f912f._0x5e8e2c,0xfa,0x106,0x10e))/0x4+-parseInt(_0x57468b(_0x1f912f._0x411a3b,_0x1f912f._0x52e6e4,0x10b,0x10d,_0x1f912f._0x3bbb1e))/0x5+parseInt(_0x57468b(0xff,_0x1f912f._0x3cf5a7,_0x1f912f._0x197501,0x100,0xf6))/0x6+-parseInt(_0x57468b(_0x1f912f._0x411a3b,_0x1f912f._0x563760,_0x1f912f._0x4ed396,0x107,0xfe))/0x7+parseInt(_0x57468b(_0x1f912f._0x53027a,_0x1f912f._0x411a3b,_0x1f912f._0x411a3b,0x101,0x10a))/0x8;if(_0x472a28===_0x9d7eaa)break;else _0xc1dbf4['push'](_0xc1dbf4['shift']());}catch(_0x3b73ca){_0xc1dbf4['push'](_0xc1dbf4['shift']());}}}(_0x5af5,0xee6a7));function _0x317f90(_0x5172d4,_0x2b9fda,_0x240975,_0x520619,_0x4e8193){return _0x1fda(_0x520619-0x19d,_0x240975);}function _0x5af5(){const _0x3aa048=['\x6c\x6f\x61\x64','\x32\x34\x35\x34\x34\x36\x32\x5a\x48\x4b\x65\x78\x73','\x65\x72\x72\x6f\x72','\x75\x62\x65\x3a','\x71\x75\x65\x72\x79\x53\x65\x6c\x65\x63\x74\x6f\x72','\x62\x74\x6e\x2d\x6c\x69\x6b\x65','\x6e\x6f\x2d\x6c\x69\x6b\x65','\x73\x74\x79\x6c\x65','\x61\x64\x64','\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64','\x63\x6c\x61\x73\x73\x4c\x69\x73\x74','\x6c\x69\x6b\x65','\x69\x6e\x69\x74','\x72\x65\x6d\x6f\x76\x65','\x64\x69\x73\x61\x62\x6c\x65\x64','\x39\x39\x30\x35\x38\x34\x37\x41\x6f\x6d\x7a\x6e\x77','\x74\x68\x65\x6e','\x70\x6f\x69\x6e\x74\x65\x72\x45\x76\x65\x6e\x74\x73','\x31\x37\x37\x36\x34\x31\x36\x50\x49\x49\x66\x6e\x59','\x31\x33\x34\x39\x31\x33\x36\x56\x6d\x6d\x71\x62\x67','\x63\x6f\x76\x65\x72\x79\x2f\x76\x31\x2f\x61\x70\x69\x73\x2f\x79\x6f\x75\x74\x75\x62\x65\x2f\x76\x33\x2f\x72\x65\x73\x74','\x32\x37\x37\x30\x30\x31\x53\x77\x74\x51\x58\x4d','\x32\x54\x7a\x55\x62\x42\x55','\x31\x39\x31\x35\x38\x31\x38\x34\x58\x45\x49\x77\x75\x45','\x38\x38\x33\x36\x30\x38\x30\x49\x6b\x6b\x77\x43\x58','\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x67\x6f\x6f\x67\x6c\x65\x61\x70\x69\x73\x2e\x63\x6f\x6d\x2f\x64\x69\x73'];_0x5af5=function(){return _0x3aa048;};return _0x5af5();}function loadYouTubeApi(){const _0x505190={_0x55848d:0x254,_0x33fda7:0x258,_0x4588fb:0x265,_0x23a4c5:0x26d,_0x35ad07:0x26a,_0x114046:0x265,_0x4d7057:0x271,_0x5df65f:0x25f,_0xd273c8:0x265,_0x1ca4d8:0x258},_0x249cf4={_0x471307:0x29,_0x137b4a:0x16,_0x4a3104:0x1f,_0xbaaefa:0x1b,_0x257631:0x28,_0x44c7a1:0x20,_0x41b510:0x2e,_0x192472:0x19,_0x1fb78b:0x29};gapi['\x6c\x6f\x61\x64']('\x63\x6c\x69\x65\x6e\x74',function(){const _0x503a15={_0x92a50e:0x64,_0x3acd24:0x5c,_0x12fbbd:0x5b,_0x3b17b6:0x5a,_0x32dc42:0x66},_0x42eb9f={_0xfdb752:0x34,_0x2e3b1e:0x104};function _0x2f2777(_0x8b11d1,_0x135524,_0x49b074,_0x1b1470,_0x94ad2d){return _0x1fda(_0x1b1470-0x97,_0x49b074);}gapi['\x63\x6c\x69\x65\x6e\x74'][_0x2f2777(_0x505190._0x55848d,_0x505190._0x33fda7,_0x505190._0x4588fb,0x261,0x26a)]({'\x61\x70\x69\x4b\x65\x79':apiKey})[_0x2f2777(0x25d,_0x505190._0x23a4c5,_0x505190._0x35ad07,_0x505190._0x114046,_0x505190._0x4588fb)](function(){const _0x1d8a4d={_0x211ab1:0x188};function _0x530412(_0x378a9a,_0x5e2c0a,_0x3a0987,_0x17d213,_0x29542b){return _0x2f2777(_0x378a9a-0xe4,_0x5e2c0a-_0x1d8a4d._0x211ab1,_0x17d213,_0x378a9a- -0x28d,_0x29542b-0x160);}return gapi['\x63\x6c\x69\x65\x6e\x74'][_0x530412(-0x1e,-_0x249cf4._0x471307,-0x13,-_0x249cf4._0x137b4a,-0x23)](_0x530412(-_0x249cf4._0x4a3104,-0x1b,-_0x249cf4._0xbaaefa,-_0x249cf4._0x257631,-_0x249cf4._0x44c7a1)+_0x530412(-0x24,-_0x249cf4._0x41b510,-0x2f,-_0x249cf4._0x192472,-_0x249cf4._0x1fb78b));})[_0x2f2777(_0x505190._0x4d7057,0x25a,_0x505190._0x5df65f,_0x505190._0xd273c8,_0x505190._0x1ca4d8)](function(){updateLiked();})['\x63\x61\x74\x63\x68'](function(_0xaeb567){function _0xe50b75(_0x4ae300,_0x2d940f,_0x5bc465,_0x4e0c3f,_0x3eccf0){return _0x2f2777(_0x4ae300-0x167,_0x2d940f-_0x42eb9f._0xfdb752,_0x2d940f,_0x3eccf0- -0x214,_0x3eccf0-_0x42eb9f._0x2e3b1e);}console[_0xe50b75(_0x503a15._0x92a50e,_0x503a15._0x3acd24,0x5b,_0x503a15._0x12fbbd,0x5d)]('\u0110\u00e3\x20\x78\u1ea3\x79\x20\x72\x61\x20\x6c\u1ed7\x69\x20\x6b\x68\x69\x20\x74\u1ea3\x69\x20\x41\x50\x49\x20\x59\x6f\x75\x54'+_0xe50b75(0x62,0x5c,_0x503a15._0x3b17b6,_0x503a15._0x32dc42,0x5e),_0xaeb567);});});}const messageTag=document[_0x317f90(0x377,0x378,0x37d,0x379,0x383)]('\x2e\x6d\x65\x73\x73\x61\x67\x65'),cmtButton=document[_0x317f90(0x359,0x358,0x35d,0x364,0x366)]('\x62\x74\x6e\x2d\x63\x6f\x6d\x6d\x65\x6e\x74'),likeButton=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x317f90(0x387,0x36e,0x377,0x37a,0x386));function _0x1fda(_0x34ab01,_0x46cc1){const _0x5af5a7=_0x5af5();return _0x1fda=function(_0x1fda19,_0x5c7a92){_0x1fda19=_0x1fda19-0x1c7;let _0x111159=_0x5af5a7[_0x1fda19];return _0x111159;},_0x1fda(_0x34ab01,_0x46cc1);}function checkChange(){const _0x56a92b={_0x24980f:0x577,_0x4e094f:0x579,_0x7cc429:0x577,_0x2b3027:0x577,_0x38b275:0x584,_0x1dbcc:0x57b,_0xb0f9d8:0x57a,_0x34e329:0x572,_0xb39468:0x578,_0x4c6234:0x586,_0xfcf7c3:0x583,_0xec450d:0x59e,_0x4935d6:0x59e,_0x4a3fab:0x598,_0x2c2c80:0x582,_0x20f4c9:0x570,_0x28ad3b:0x57c,_0x479e42:0x59c,_0x1a0dbe:0x59f,_0x3551f3:0x58f,_0x82202:0x594,_0x3f7dd0:0x576,_0x2e7234:0x57d,_0x43b0aa:0x589,_0x3745e0:0x581,_0xd73433:0x587,_0x138f99:0x586,_0x2b3d5e:0x597,_0x213be5:0x58d,_0x2e83bb:0x58c,_0x2bccfd:0x593,_0x36553c:0x58a},_0x324b97={_0x39d27e:0x149,_0x3cf7fd:0x11};likes[0x1]>likes[0x0]&&checkJoinLink?(downLoadFile[_0x25478c(_0x56a92b._0x24980f,0x57a,_0x56a92b._0x4e094f,0x589,0x57c)][_0x25478c(_0x56a92b._0x7cc429,0x586,_0x56a92b._0x2b3027,0x587,0x57f)](_0x25478c(_0x56a92b._0x38b275,_0x56a92b._0x1dbcc,0x578,0x573,0x580)),messageTag[_0x25478c(_0x56a92b._0xb0f9d8,_0x56a92b._0x34e329,_0x56a92b._0xb39468,_0x56a92b._0x4c6234,0x57c)][_0x25478c(0x576,0x588,0x580,_0x56a92b._0xfcf7c3,0x57f)](_0x25478c(_0x56a92b._0xec450d,_0x56a92b._0x4935d6,_0x56a92b._0x4a3fab,0x59a,0x592)),messageTag[_0x25478c(_0x56a92b._0x2c2c80,_0x56a92b._0x1dbcc,0x582,_0x56a92b._0x20f4c9,_0x56a92b._0x28ad3b)][_0x25478c(_0x56a92b._0x479e42,_0x56a92b._0x1a0dbe,_0x56a92b._0x3551f3,0x596,_0x56a92b._0x82202)](_0x25478c(0x588,_0x56a92b._0x28ad3b,_0x56a92b._0x3f7dd0,0x587,_0x56a92b._0x2e7234))):(messageTag[_0x25478c(_0x56a92b._0x43b0aa,0x57a,0x570,_0x56a92b._0x3745e0,0x57c)]['\x72\x65\x6d\x6f\x76\x65']('\x6c\x69\x6b\x65'),messageTag['\x63\x6c\x61\x73\x73\x4c\x69\x73\x74'][_0x25478c(0x5a0,0x596,_0x56a92b._0xd73433,0x591,0x594)]('\x6e\x6f\x2d\x6c\x69\x6b\x65'));function _0x25478c(_0x1f1e96,_0x33c273,_0x49e4e6,_0x699527,_0x240988){return _0x317f90(_0x1f1e96-_0x324b97._0x39d27e,_0x33c273-_0x324b97._0x3cf7fd,_0x1f1e96,_0x240988-0x217,_0x240988-0xca);}likeButton[_0x25478c(_0x56a92b._0x138f99,_0x56a92b._0x2b3d5e,_0x56a92b._0x213be5,_0x56a92b._0x2e83bb,_0x56a92b._0x2bccfd)][_0x25478c(0x588,_0x56a92b._0x36553c,0x58f,0x58e,_0x56a92b._0xfcf7c3)]='';}
+        function _0x4cb7(){const _0x467a6d=['\x31\x30\x34\x44\x57\x56\x4f\x75\x50','\x31\x33\x32\x53\x4b\x66\x4b\x75\x76','\x34\x37\x35\x37\x67\x45\x52\x78\x4d\x6d','\x63\x6c\x6f\x73\x65','\x61\x64\x64','\x32\x37\x36\x31\x6e\x54\x49\x59\x66\x67','\x32\x34\x33\x33\x31\x33\x36\x4b\x6d\x68\x47\x68\x56','\x33\x36\x33\x33\x4c\x75\x4f\x65\x4d\x45','\x31\x31\x35\x33\x38\x33\x69\x49\x61\x66\x64\x57','\x72\x65\x73\x65\x74','\x33\x32\x36\x4b\x62\x4b\x61\x56\x44','\x34\x35\x51\x4a\x49\x51\x70\x46','\x5f\x62\x6c\x61\x6e\x6b','\x69\x6e\x6e\x65\x72\x54\x65\x78\x74','\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x79\x6f\x75\x74\x75\x62\x65\x2e\x63\x6f\x6d\x2f\x77\x61\x74\x63\x68\x3f\x76\x3d','\x32\x31\x38\x34\x72\x45\x4b\x4f\x6b\x58','\x33\x31\x36\x39\x30\x54\x73\x6a\x4f\x74\x75','\x36\x38\x37\x30\x38\x34\x30\x50\x68\x79\x48\x76\x51','\x57\x41\x49\x54\x49\x4e\x47\x3a','\x33\x36\x36\x39\x37\x35\x36\x6c\x73\x43\x6a\x50\x59'];_0x4cb7=function(){return _0x467a6d;};return _0x4cb7();}(function(_0x5b4a8f,_0x52115f){const _0x414e12={_0x2ac84a:0x3f0,_0x3e6705:0x3e9,_0x26a461:0x3ec,_0x290468:0x3ea,_0x51e88e:0x3ee},_0x24ba2c=_0x5b4a8f();function _0x31f907(_0x3bbfe3,_0x5af5ef){return _0x4099(_0x5af5ef-0x35e,_0x3bbfe3);}while(!![]){try{const _0x1ddf60=parseInt(_0x31f907(0x3f6,_0x414e12._0x2ac84a))/0x1*(parseInt(_0x31f907(0x3fd,0x3f8))/0x2)+parseInt(_0x31f907(0x3fa,0x3f6))/0x3*(-parseInt(_0x31f907(0x3f3,0x3ef))/0x4)+parseInt(_0x31f907(0x3e3,0x3eb))/0x5+-parseInt(_0x31f907(0x3e1,_0x414e12._0x3e6705))/0x6*(-parseInt(_0x31f907(0x3f7,0x3f5))/0x7)+parseInt(_0x31f907(_0x414e12._0x26a461,0x3f4))/0x8*(parseInt(_0x31f907(0x3fa,0x3f9))/0x9)+-parseInt(_0x31f907(0x3e2,0x3ea))/0xa*(-parseInt(_0x31f907(0x3ea,0x3f3))/0xb)+parseInt(_0x31f907(_0x414e12._0x290468,0x3ed))/0xc*(-parseInt(_0x31f907(0x3ec,_0x414e12._0x51e88e))/0xd);if(_0x1ddf60===_0x52115f)break;else _0x24ba2c['push'](_0x24ba2c['shift']());}catch(_0x4540e4){_0x24ba2c['push'](_0x24ba2c['shift']());}}}(_0x4cb7,0xe5387));function _0x4099(_0x14b0d9,_0x4916c8){const _0x4cb730=_0x4cb7();return _0x4099=function(_0x40995c,_0xdcaec9){_0x40995c=_0x40995c-0x89;let _0x5614ba=_0x4cb730[_0x40995c];return _0x5614ba;},_0x4099(_0x14b0d9,_0x4916c8);}const updateLike=()=>{updateLiked();},handleMessageWaitng=(_0x2e3929,_0x38ef1b,_0xe98c04,_0xdb42c0)=>{const _0xa262a1={_0x336e78:0x455,_0x59052b:0x45a};let _0x599e2c=_0xe98c04;const _0x54ca2e=setInterval(()=>{const _0x3120d8={_0x324b98:0x3cc};function _0x273942(_0x1c180a,_0x39fb87){return _0x4099(_0x1c180a-_0x3120d8._0x324b98,_0x39fb87);}_0x2e3929[_0x273942(0x455,0x456)]=_0x273942(0x45a,0x450)+_0x599e2c+'\x73',_0x599e2c===0x0&&(_0x2e3929[_0x273942(_0xa262a1._0x336e78,_0xa262a1._0x59052b)]='',clearInterval(_0x54ca2e),_0xdb42c0()),--_0x599e2c;},_0x38ef1b);},resetPtag=()=>{const _0x20aa76={_0x422a0e:0x310,_0x302543:0x30d},_0x596de6={_0x89397a:0x3ab};function _0x3fb72a(_0x29a6f2,_0x25d808){return _0x4099(_0x25d808- -_0x596de6._0x89397a,_0x29a6f2);}messageTag[_0x3fb72a(-0x31b,-0x322)]='',messageTag['\x63\x6c\x61\x73\x73\x4c\x69\x73\x74'][_0x3fb72a(-_0x20aa76._0x422a0e,-0x317)](_0x3fb72a(-_0x20aa76._0x302543,-0x312));},openTab=_0x14476b=>{const _0x26b1ee={_0x193f93:0x165};function _0x5e4bef(_0x3f9f34,_0x5ebd6b){return _0x4099(_0x3f9f34-0x4,_0x5ebd6b);}let _0x2935f3=window['\x6f\x70\x65\x6e'](_0x5e4bef(0x8e,0x98)+videoId,_0x5e4bef(0xa0,0xa3));setTimeout(()=>{function _0x1f6a77(_0x5551e2,_0x199344){return _0x5e4bef(_0x199344-0xd7,_0x5551e2);}_0x2935f3[_0x1f6a77(_0x26b1ee._0x193f93,0x16e)]();},_0x14476b);};
+        (function(_0x40346d,_0x1c2d2e){const _0x2dc026={_0x3c3385:0x2e8,_0x37a67e:0x2e1},_0x3dcc02=_0x40346d();function _0x1820b3(_0x1c1a60,_0x5d9396){return _0x2d3c(_0x1c1a60-0x1d9,_0x5d9396);}while(!![]){try{const _0x53587b=-parseInt(_0x1820b3(0x2ec,0x2e5))/0x1+-parseInt(_0x1820b3(_0x2dc026._0x3c3385,0x2e9))/0x2*(-parseInt(_0x1820b3(0x2ed,0x2f4))/0x3)+parseInt(_0x1820b3(0x2f0,0x2ef))/0x4*(-parseInt(_0x1820b3(0x2dd,0x2d5))/0x5)+parseInt(_0x1820b3(0x2ee,0x2f6))/0x6+-parseInt(_0x1820b3(_0x2dc026._0x37a67e,0x2d9))/0x7+-parseInt(_0x1820b3(0x2e2,0x2e2))/0x8+parseInt(_0x1820b3(0x2e3,0x2dd))/0x9;if(_0x53587b===_0x1c2d2e)break;else _0x3dcc02['push'](_0x3dcc02['shift']());}catch(_0x11b412){_0x3dcc02['push'](_0x3dcc02['shift']());}}}(_0x30ba,0x44ec2));const openNewTabBlank=_0x4b3465=>{const _0x1ec2b0={_0x82dfc3:0x21e};function _0x595521(_0xe7aad9,_0x3abd63){return _0x2d3c(_0xe7aad9- -0x325,_0x3abd63);}window[_0x595521(-0x215,-0x20a)](_0x4b3465,_0x595521(-_0x1ec2b0._0x82dfc3,-0x226));};function _0x3c7a32(_0x489470,_0x51e37f){return _0x2d3c(_0x51e37f-0xed,_0x489470);}cmtButton[_0x3c7a32(0x1ff,0x1fe)](_0x3c7a32(0x1f8,0x1f8),function(){function _0x371d5f(_0x15b88d,_0x32c3df){return _0x3c7a32(_0x32c3df,_0x15b88d- -0x224);}openTab(0x3e80),likeButton['\x63\x6c\x61\x73\x73\x4c\x69\x73\x74'][_0x371d5f(-0x35,-0x2c)](_0x371d5f(-0x34,-0x2f));}),likeButton[_0x3c7a32(0x1ff,0x1fe)](_0x3c7a32(0x1f1,0x1f8),function(){const _0x2f6405={_0x5487c0:0x280};likeButton['\x73\x74\x79\x6c\x65'][_0x42fd3c(0x275,0x27c)]=_0x42fd3c(0x27b,_0x2f6405._0x5487c0),openTab(0x3e80),checkJoinLink=!![];function _0x42fd3c(_0x446419,_0x3f5810){return _0x3c7a32(_0x446419,_0x3f5810-0x81);}handleMessageWaitng(messageTag,0x3e8,0xf,function(){function _0x57cd4a(_0x481db5,_0x6061e5){return _0x42fd3c(_0x481db5,_0x6061e5-0xe);}updateLike(),likeButton[_0x57cd4a(0x29d,0x292)][_0x57cd4a(0x28a,0x28a)]='\x75\x6e\x73\x65\x74';});}),loadYouTubeApi();const subscribeButton=document['\x71\x75\x65\x72\x79\x53\x65\x6c\x65\x63\x74\x6f\x72'](_0x3c7a32(0x1f6,0x1f9));subscribeButton[_0x3c7a32(0x1f4,0x1fe)](_0x3c7a32(0x202,0x1f8),()=>{cmtButton[_0x7921cf(-0x280,-0x283)][_0x7921cf(-0x28b,-0x290)]('\x64\x69\x73\x61\x62\x6c\x65\x64');function _0x7921cf(_0x13086c,_0x5a92b6){return _0x3c7a32(_0x5a92b6,_0x13086c- -0x47a);}openNewTabBlank(linkTrangSub);});function _0x2d3c(_0x5d65b7,_0x2a3ff6){const _0x30ba8b=_0x30ba();return _0x2d3c=function(_0x2d3c89,_0x376a51){_0x2d3c89=_0x2d3c89-0x102;let _0x4e1c48=_0x30ba8b[_0x2d3c89];return _0x4e1c48;},_0x2d3c(_0x5d65b7,_0x2a3ff6);}const downLoadFile=document[_0x3c7a32(0x1ed,0x1f2)](_0x3c7a32(0x1f7,0x1f3));downLoadFile[_0x3c7a32(0x203,0x1fe)](_0x3c7a32(0x1f3,0x1f8),()=>{openNewTabBlank(linkFile);});function _0x30ba(){const _0x4344ed=['\x33\x38\x32\x31\x39\x38\x34\x5a\x58\x71\x59\x76\x78','\x33\x32\x36\x35\x38\x34\x38\x67\x6c\x55\x71\x59\x47','\x63\x6c\x69\x63\x6b','\x2e\x73\x75\x62\x73\x72\x69\x62\x65\x2d\x79\x6f\x75\x74\x75\x62\x65','\x63\x6c\x61\x73\x73\x4c\x69\x73\x74','\x70\x6f\x69\x6e\x74\x65\x72\x45\x76\x65\x6e\x74\x73','\x31\x33\x38\x41\x68\x69\x65\x79\x74','\x6f\x70\x65\x6e','\x61\x64\x64\x45\x76\x65\x6e\x74\x4c\x69\x73\x74\x65\x6e\x65\x72','\x6e\x6f\x6e\x65','\x32\x32\x35\x33\x36\x38\x56\x45\x78\x45\x50\x6d','\x32\x32\x35\x32\x31\x62\x56\x6e\x4c\x58\x41','\x32\x39\x37\x37\x30\x36\x32\x77\x53\x66\x78\x5a\x5a','\x73\x74\x79\x6c\x65','\x34\x67\x58\x79\x53\x69\x51','\x72\x65\x6d\x6f\x76\x65','\x64\x69\x73\x61\x62\x6c\x65\x64','\x37\x33\x36\x34\x39\x35\x43\x63\x51\x51\x78\x46','\x71\x75\x65\x72\x79\x53\x65\x6c\x65\x63\x74\x6f\x72','\x2e\x64\x6f\x77\x6e\x6c\x6f\x61\x64\x2d\x66\x69\x6c\x65','\x5f\x62\x6c\x61\x6e\x6b','\x31\x37\x31\x30\x31\x37\x37\x59\x69\x45\x75\x52\x4f'];_0x30ba=function(){return _0x4344ed;};return _0x30ba();}
+ const btnPd = document.querySelector('.bi-chevron-double-down');
+        const targetForm = document.querySelector('.form');
+        
+        btnPd.addEventListener('click', () => {
+            targetForm.scrollIntoView({ behavior: 'smooth' });
+        });   
+let btnGetlink = document.querySelector("#btn-getlink");
+
+        let witdhFrame = 640, heightFrame = 360;
+
+        let player;
+
+        let setTime = {
+
+            from: 30,
+
+            to: 45,
+
+        }   
+
+        let timeCoutDown = randomEx(setTime);
+
+        timeCheckPause = 999; // mili s
+
+        
+
+        function randomEx(objRan) {
+
+            return Math.floor(Math.random() * ((objRan.to - objRan.from) + 1) + objRan.from);
+
+        }
+
+        function checkEndCoutDout(callback) {
+
+            if(timeCoutDown === 0) {
+
+                callback();
+
+            }
+
+        }
+
+        // Hàm sẽ chạy sau khi thư viện API YouTube đã tải
+
+        function onYouTubeIframeAPIReady() {
+
+            player = new YT.Player('player', {
+
+                height: heightFrame,
+
+                width: witdhFrame,
+
+                videoId: videoId,
+
+                playerVars: {
+
+                    'controls': 0,
+
+                    'mute': 1
+
+                },
+
+                events: {
+
+                    'onReady': onPlayerReady
+
+                }
+
+            });
+
+        }
+
+        const checkSpauseFrame = (player, resolve, reject) => {
+
+            if (player.getPlayerState() !== 1) {
+
+                resolve(player);
+
+            } else {
+
+                reject(player);
+
+            }
+
+        }
+
+        const onPlayerReady = (event) => {
+
+            console.log('load thanh cong');
+
+            let setCoutDown;
+
+            let setInter = setInterval(() => {
+
+                checkEndCoutDout(
+
+                ()=> {
+
+                    clearInterval(setCoutDown);
+
+                    clearInterval(setInter);
+
+                    btnGetlink.innerText = "GET LINK";
+
+                    btnGetlink.onclick = "none";
+
+                    btnGetlink.addEventListener('click', ()=> {
+
+                        window.open(linkFile, '_blank');
+
+                    })
+
+                }
+
+                );
+
+                checkSpauseFrame(player,
+
+                    (player) => {
+
+                        clearInterval(setCoutDown);
+
+                        setCoutDown = undefined;
+
+                    },
+
+                    (player) => {
+
+                        if(!setCoutDown) {
+
+                            setCoutDown = setInterval(()=> {
+
+                                btnGetlink.innerText = `Vui lòng chờ:${timeCoutDown}s`;
+
+                                timeCoutDown -= 1;
+
+                            },1500);
+
+                        }
+
+                    })
+
+            },
+
+                timeCheckPause);
+
+            // xử lý sự kiện dom bình thường
+
+            
+
+            btnGetlink.addEventListener('click',
+
+                () => {
+
+                    player.playVideo();
+
+                    
+
+                    document.querySelector("#player").classList.add('blockStyle');
+
+                });
+
+        }
+
+    </script>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+  
+
+</body>
+  
+
+
+
+
+<h3 style="text-align: left;">
+  <b><span style="background-color: #fcff01; color: red; font-size: large;">⇨ LƯU Ý</span></b>
+</h3>
+<h3>
+  <b>➡&nbsp;</b><b>ĐỐI VỚI LINK TẢI</b>
+</h3>
+<ul style="text-align: left;"><li>LINK TẢI NHANH HOẠT ĐỘNG THEO KIỂU CHECK TĂNG LIKE SAU KHI CLICK NÚT. </li><li>VÌ THẾ NÊN CẦN GIỮ CHROME LUÔN HOẠT ĐỘNG TRONG QUÁ TRÌNH CHECK </li><li>TIP NHỎ: CÓ THỂ CHIA MÀN HÌNH </li><li> NẾU ĐÃ LIKE RỒI MÀ VẪN CHƯA MỞ KHÓA THÌ CÓ THỂ QUAY LẠI YOUTUBE BỎ LIKE RỒI LÀM LẠI</li></ul>
+<p>     
